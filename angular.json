@@ -120,9 +120,16 @@
               "devServerTarget": "AngularFireCRUD:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
     }
   },
-  "defaultProject": "AngularFireCRUD"
+  "defaultProject": "AngularFireCRUD",
+  "cli": {
+    "analytics": false
+  }
 }

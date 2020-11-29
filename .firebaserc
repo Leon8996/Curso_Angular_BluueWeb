@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-angularcrud-1565c": {
+      "hosting": {
+        "AngularFireCRUD": [
+          "fir-angularcrud-1565c"
+        ]
+      }
+    }
+  }
+}
